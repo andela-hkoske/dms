@@ -1,0 +1,18 @@
+# OSX Stuff
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+.env
+tmp/
+node_modules
+
+# Configuration files
+config.js
+server/data/token.txt
